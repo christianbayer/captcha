@@ -1,5 +1,5 @@
 {
-    "name": "xablau/captcha",
+    "name": "christian.bayer/captcha",
     "description": "Laravel Captcha",
     "type": "library",
     "require": {
