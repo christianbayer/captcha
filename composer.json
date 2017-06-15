@@ -1,0 +1,16 @@
+{
+    "name": "xablau/captcha",
+    "description": "Laravel Captcha",
+    "type": "library",
+    "require": {
+        "intervention/image": "^2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Bayer",
+            "email": "christian.bayer@universo.univates.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
